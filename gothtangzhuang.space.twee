@@ -15,137 +15,45 @@ gothtangzhuang.space
   "zoom": 0.6
 }
 
-<!---- Narrative --->
-:: NarrativeGototheLibrary {"position":"700,925","size":"100,100"}
-I put on a pair of black jeans that are tight and ripped at the knees and braid my hair in two tails. I then put on a band shirt of a band no knows, not even me, because the logo is completely unreadable. This is the exact same outfit I've worn since my undergrad years in college and I do it sometimes the honor the old me, albeit the new me is getting a little old to dress this way. No one cares though, my body is still trapped in 2017 anyway.
+<---Menu Screen -->
+:: CatholicCW {"position":"450,50","size":"100,100"}
+The main character of the game is a 3rd generation diaspora Puerto Rican who lives in a fictional Park Slope, New York and then migrated to a suburban unnamed part of New Jersey. A lot of Puerto Ricans are Catholic, so there will be mentions of saint statues, crosses, churches, and prayers. 
 
-The route I take every week, at least 2-3 times, was a behavioral activation plan I made with an old therapist long ago when I first came back to New York. //Wake up in the morning at 10AM, eat breakfast, take a walk to the train, and then allow myself to people watch until I hit the location of the library. Then I read at least 30 pages of literature in a quiet room.
+However, religion does not play a main role in this game and the character identifies as secular but culturally Catholic. Catholicism is a common motif in Latin American and Caribbean cultures. Even when the Latino is not neccessarily a church-going Catholic, they might be rocking that Mary tattoo because she is aesthetically cool to them.
 
-When I get on the train, I hold onto the pole and feel the tracks beneath my flat feet. I close my eyes and think of my destination to stay in the present moment. The sway and the bump is almost hypnotic.
+[[Return->Epigram]] 
 
+:: Epigram {"position":"300,50","size":"100,100"}
+gothtangzhuang.space is a blog and email based horror interactive fiction about a friend/former lover gone missing. 
 
-:: NarrativeLibraryBooks
-This place always feels like it's a hell for people who love the company of others. In here, despite it's welcoming golden gates, and its consistently flowing population of readers, writers, musicians, artists, and lonely people, few of these people will make friendly talk and share their epiphanies or their lore. Yet, somehow, this still feels like more company than home. I tend to pick a quiet room all the way in the back of the library because it feels more private despite that no one here cares about the private experiences of others.
+The narrator, Tai will be searching for him. It's your job to lead the way. 
 
-I then enter the booth, open up a book, and then read. I do not let my mind wander and I let the prose settle in. The novel of the month is 2666 by Roberto Bolaño and the murals of violence and operas of death and grief are filling my mind. Apparently, I didn't have enough of it growing up. After about 5 pages though, I soon grow restless by the tides of blood driven imagery and I get up to check out some more books.
+Content Warning
+- Catholicism mentions Please read further [[here.->CatholicCW]]
+- Suicidal ideation, active and passive
+- Self-harm mentions (burning, cutting)
+- Alcohol use mentions
+- Emotional and physical abuse by parents and partner
+- Intimate partner violence (IPV)
+- Sexual content
 
-:: NarrativeLibraryShelves
-I've gone through many aisles of this library, often without a single goal in mind. There are a few selections of books that I have on a list, but they are on hold and I don't feel like going through familiarity. The aisles in particular tend to be quite solitary, practically haunting to a level where if someone does come through it feels like an invasion of your own bedroom. The shelves in this area I'm in is unpopular and the lights are flickering every 5 seconds. The books are yellowing and for some the plastic coverings have done their due diligence of protecting. 
+Gameplay
+- Contains a lot of text
+- A few puzzles
+- Some graphics
 
-One of them seemingly stands out more than the others. In big bold red letters, I see The Man in Green and the author is "Oliver Wong". A name that brings a bit of a flutter to my heart. I clench my ass and the thumping in my chest begin to get audible. For a moment, I believed, that my friend Oliver Wang had finally gotten to written a book about his family history. What a great achievement it would've been if it were true! His work would validate his father, I'm sure. But no, as a cultural and lingual outsider, I would make this mistake. His surname is Wang and he has gotten on my case about that many times in the earlier days of our friendship when our names became important. 
+[[Start->NarrativeIntro]]
 
-The book may be interesting. I turn it over, I see a man in green uniform and a red star on the cap. His face stoic as one can ever be in a time of war and idealism. His brown eyes are intense and echo the love of his pride. His eyesbrows are thin and his lips are full. It is obviously not my friend, Oliver Wang, nor is it the uncle he described so fervently on one summer afternoon.  
+:: Credits {"position":"25,25","size":"100,100"}
+Writing, Scripting, and UI by Li Hieng Tan
+Additional scripting by 
+Pixel art and photographs by Li Hieng Tan
+Music by 
+Edited and tested by Sam, Maria
+Sam is a beta-reader to make sure those POTS scenes are real and relatable.
 
-:: NarrativeLibraryOliverBack
 
-It was during my family reunion funny enough. Him and I were sitting on the swings, one a giant tire and the other a plank. It was a few weeks before we would start the Fall semester again for our 2nd year of undergrad college. Oliver came along because even though he wasn't blood, my family practically thought he was an adopted sibling due to how close we were. What they didn't know during that time was that our closeness reached a whole new contrast.
-
-I don't remember what we were talking about but he turned aroud, with his thin brush brows scrunched. An expression I found rather cutesy and he hated when I would say that because when he would do that, it was rarely a good thing coming out of his lips.
-
-"My uncle is dead. The police found him fucking dead in a a parking lot not too far from here. Weren't we just in Pavillion Mall 2 weeks ago?" I recall he literally said this like it was the latest deranged gossip and not that his uncle passed away. It was also strangely placed because I've actually never met his uncle and he was treated like a folklore in the Wang household because of how long he was missing.
-
-He then pulls up a photo he took of a yellowed photograph of his uncle and the stereo music paused as if to let Oliver finally speak of his uncle. He then said "My uncle wore such a cool uniform. It's too bad I didn't get to see him." 
-
-:: IntroBlog {"position":"125,200","size":"100,100"}
-Huh. Weird. I never knew space worked like this. I can use the blog editor but when I click on some posts, it's just blank. 
-
-I thought Oliver just made blog themes, didn't expect him to have Windows do his bidding. I've been learning a lot since invading his privacy.
-
-
-:: Narrative4AMDorm {"position":"275,1175","size":"100,100"}
-Olive and I were high, elevating up to Saturn and then crash landing back down to New Jersey when it was over  Our confuzzled feelings were mixed  with alcohol more than the edibles we used at that time. I think I even puked a little in my mouth before we jumped into the bed. I did have two shots of that Chinese wine he gave me and then he finished it off. 
-
-Sometimes this little love scene with Olive comes into my mind at night. Although, rarely these days, but with entering his world again. It feels raw and new.
-
-I recall this happened after our big conversation where we exchanged these feelings under the college bleachers like some damn White people sitcom. It was Olive's plan by the way. 
-
-There is more to this story. There was a red flag or two and I shouldn't have pulled my pants down there. We were just so desperate in our honesty [[I guess.->NarrativeTheBleachers]]
-
-
-:: NarrativeChildHoodMemory1 {"position":"875,825","size":"100,100"}
-I think I remember that one day, that blog post really brings back some memories. I've known Olive for so long but when we hit our puberty years I stopped knowing him. It's hard to explain and to be quite frank he never wanted to explain it me either.
-
-When we got lost in Kids R' Fun, his dad really did slap the shit out of him. It was over something so ridiculous too. Olive and I were at the arcade playing Tekken 3.
-
-He was Hwoarang and I was Lei Wulong. The strobing lights, the muffled SFXs, my hands sweating on the handsticks, and the dried tears on Olive's cheeks from all the hysterical laughing he was doing. I do not remember what was funny during that time, but sometimes he would break down cry laughing for simply being around me. [[>>->NarrativeChildHoodMemory2]]
-
-
-:: NarrativeChildHoodMemory2 {"position":"1000,825","size":"100,100"}
-"Fengfeeenng!" I heard his father call out and I turned and saw his thin figure in the dark, lightened only by the flickers of various arcade games. He was still wearing a fleece even though it was dead in the middle of a hot August.
-
-It only took a minute after him and I locked eyes. His, totally cocked with rage, mine with total doe-eyed child fright. In that 5 seconds, I had realized that we weren't allowed here and Olive never told me that we weren't allowed there.
-
-"Fengfeeenng!" I heard him say again in the exact cadence as before as if he's practiced saying it in the mirror. Things moved quite fast. After all, I think we had to be like around 11 years old? 
-
-I looked down at the neon galaxy stars and purple planets of the carpeted arcade floor as Olive's feet were lifted off of it. I could feel the callused fingers against the moist skin of Olive's cheek.
-
-I wasn't the one receiving the blows but I cried myself to sleep that night.
-
-
-:: NarrativeDreams {"position":"1375,1100","size":"100,100"}
- I have the same dreams over and over, it is one component of my madness that I like the least. The only ounce of positivity in it is that I can predict the dreams and how they will start, end, and how much they will weight while I'm within them. The heaviest dream involves the survival of a school shooting, despite that I have never had to live one. Thankfully.
-
-
-:: NarrativeEndGodUpThere {"position":"1225,1150","size":"100,100"}
-Olive is still in the hospital and his parents are so shocked, I've been visiting them despite that the search is over. I don't have anything better to do anyway and I don't have any interest going back to the writing desk now.
-
-I am holding the events in my heart and my chest is heavy with the burden of knowing that I had just prevented the most vile shit. Today, I visit Olive in the hospital and his mother was sitting across Olive in the chair. She is quiet, looking down at her son. The father isn't here. So my mother sat next to Mrs. Wang to fill in the role. My mom then says in her typical refusing to read the room fashion:
-
-Mom: "There is a God up there. I know you don't believe in him. But he will come around one of these days."
-
-I lift up the basket behind me on the chair. It is filled with a shower gel, shaving cream, and a couple of candies that Olive likes the most. I give it to his mother who forces a grimace-like smile to accept the gift with her kindness but with hesitation against mine.
-
-I've told the Wangs many times. Yes, I risked my life. No, I don't regret it, except the parts where I kept falling.
-
-
-:: NarrativeFired {"position":"450,925","size":"100,100"}
-This isn't a suprise but it's great way to start my morning. I know this guy had steam coming out of his ears. I'm sorry for not being a human typewriter that will churn out his content drivel without a struggle. He clearly copied and pasted an AI email template and didn't make it personal to him. Speaks to his standards. 
-
-Hello Mr. Tai Rodriguez,
-
-I’m writing to formally notify you that our service agreement dated October 6th 2021 will be terminated effective June 6th 2021. This decision has been made after careful consideration and in alignment with the terms outlined in our contract.
-
-Up until the termination date, I will continue to provide services as agreed upon. After that date, all contracted obligations will conclude. If there are outstanding deliverables, invoices, or materials that need to be completed or transferred, I will ensure they are addressed promptly.
-
-Please let me know if you need any documentation, records, or transition support as we close out our work together.
-
-Thank you for the opportunity to collaborate. I wish you and your team continued success.
-
-Warm regards, 
-Bryan Smith
-
-Now, I am for sure fucked. No fortune telling needed. [[>>->NarrativeStillness]]
-
-
-:: NarrativeHisRoom {"position":"275,1425","size":"100,100"}
-There is a scent in here that is familiar. Hair, sweat, and cedar. But there is no warmth of a being here. The cool air entrapped in the empty room pours out and greets my face and goes down my spine.
-
-The light is on and it is a warm yellow glow that reveals his bed being made, his computer chair sheathed into a black carbon fiber desk, and a laptop sits open and dark. He has been missing for 3 months and his mother takes care of the room as if it will coax him back.
-
-The welcome of a clean home isn't enchanting now, which definitely means there's something up.
-
-
-:: NarrativeIllness1 {"position":"775,1300","size":"100,100"}
-I remember when I came down with the illness. When I mean "came down" more like I finally recognized it. I was bedridden for days riding the tide before I could truly gain the acceptance that I was sick as a fucker. 
-
-I could barely move from my bed and I felt like I was swimming in my sheets. I've never had so much sweat come out of my pores and my hair was stuck to my skin. The ringlets that my family always gawked at as being the generational genetic treasure were becoming matted and fuzzed up like caterpillers. 
-
-Honestly, I wish I died that day. It turned out though, I was just really damaged by the heat and I would later come to find out I'm a little more neurally fucked than I thought. [[>>->NarrativeIlness2]]
-
-
-:: NarrativeIllness3 {"position":"1025,1300","size":"100,100"}
-
-
-
-:: NarrativeIlness2 {"position":"900,1300","size":"100,100"}
-I was knocked down and slapped silly by a flu and what I would later come to find out was POTS or Postural Orthostatic Tachycardia Syndrome. I had faded in and out, could barely get out of bed, and watched as the sun tinged my legs from the blinds and the moonlight awashed me overnight.
-
-My mind was in a haze of agonizing dreams the whole time: arguments with my dad, arguments with Oliver, weird sex dreams with Oliver, and then that coach screaming at me. There was no way for me to stabilize my thoughts either. If I got up, it was like someone forced me down with one big push. My hands gripped the blankets and if I turned my world swayed to left and the right. 
-
-Oliver finally came in to check in on me. He was gone at his parents and he didn't get a chance to off load the continued trauma tha night. I was seizing and probably would've been seized by the Gods if he didn't come back.
-
-All I saw was Mary, the Black one in particular. She doted down and her brown eyes were so comforting, so warm. It was so rude to be waken by a shot in my ass. [[>>->NarrativeIllness3]]
-
+<!---- Narrative ACT1--->
 
 :: NarrativeIntro {"position":"300,175","size":"100,100"}
 This guy makes me want to drive into the nearby steel powerline but I can't do that because:
@@ -219,6 +127,21 @@ Tai: "One client of mine is being a pain in the ass. I hate to ask this but can 
  
  At this time of 8PM, she is watching the telenovela that I don't know the name of. The man has a crown of wild curls and smoldering eyes. The love interest is blonde with a beauty mark on her right cheekbone. I sometimes think she believes she is part of the show and there is nothing I can do but wait until she is done with her adjacent to lucid dreaming hobby. I go to the window. [[>>->NarrativeWindow]]
 
+:: NarrativeWindow {"position":"325,675","size":"100,100"}
+Perhaps the scenary needs to change a little. My eyes need to rest on something other than screens, the words of dead writers, and my mom's concern static filling up my damn phone and my own anxiety about my own concerns transfering to her.
+
+It needs to all be compartamentalized. I pull my computer chair to the screen door and then I open it up to sit on my, in a sense, a levitating "porch" at the sky blue exit stairs.  
+
+The stairs were painted as a project by a dead artist who used to live in my apartment complex. He begged the owner to allow him to paint them like the sky, so he could feel like he was still living here in heaven. I do love the intention and meaning of his art, but there is also a pinch of naivity in it as the rent keeps getting higher. He has been dead for the last 5 years, hopefully, he is enjoying still living here but rent free. 
+
+They keep me elevated but somehow connected to everyone down there on the sidewalks when I can't get out. It keeps me in a division between my thoughts, the people, and me. But someone out there is singing and smoking as a personal ritual for whatever inner experience he has, he does it at this time always. [[>>->NarrativeIntroCarlos]]
+
+:: NarrativeIntroHome {"position":"100,1400","size":"100,100"}
+I moved here in this apartment as an escape. Mother thought it was an ugly little place but I thought it had a lot of charm. Since this home is unwelcoming to my mother, I can covet it to myself along with the financial regrets. Without me depending on her and her depending on me from afar, the cost benefit seems to weigh less in favor of my mind.
+
+The green walls were the real show stoppers and I got orange kitchen appliances to create more synergy with the color pallette. Except the oven, orange ovens only exist for the unworthy wealthy. The apartment building itself has blue exit stairs and has a sibling building right across from it. 
+
+The Blue Sky Apartments were designed by a rich yuppie who took pity on us medicaid brokies and gave us the ugliest places to live. To be fair, it's just 70s nostalgia. 
 
 :: NarrativeIntroCarlos [InComplete/Edit] {"position":"450,675","size":"100,100"}
  It is quite a forlorn tune, something meant to tug at your heart strings and I guess eventually rip them out if you're really begging for it. At first, I thought he was just moaning in exhaustion when I first heard the bolero. My Spanish is only medium level efficient because I am quite generationally far from the island by now and my parents I am not close with anymore. It turned out the song is something familiar but I can't pinpoint what it's called. 
@@ -228,7 +151,6 @@ Tai: "One client of mine is being a pain in the ass. I hate to ask this but can 
  It did take me a long while to figure out the words and I have memorized them to plug the words in when I don't understand him. When I look at him, I sometimes think about the many things I want to say to him. My gratitude. My memories. 
  
  [[>>->NarrativeIntroCarlos2]]
-
 
 :: NarrativeIntroCarlos2 {"position":"450,800","size":"100,100"}
 Carlos Hernandez is an owner of an eponymous local bodega. We've known each other before I even made my first efforts to crawl. My mother had a gastronomic ritual on a biweekly basis. She would buy pan sobao from Mr. Hernandez's bread bins and then come home and slather it with cheddar cheese and butter. Alongside, a big jug of black coffee. 
@@ -243,21 +165,192 @@ I think I agree with Mom that he is an angel in disguise. [[>>->NarrativeIntroCa
 :: NarrativeIntroCarlosEnd {"position":"325,800","size":"100,100"}
 I give him a wave which I don't normally do. It does feel tense when the song goes on and I, his endearing customer sitting from across, says nothing to him. These buildings are not that far where he can't notice at least the brown blur of my hand waving.
 
-He doesn't notice though. Come to think of it, I might need to delay grocery delivery if I'm losing this client. I have to face my reality and go back to the phone.  [[>>->ReturntoMomPhone]]
+He doesn't notice though. Come to think of it, I might need to delay grocery delivery if I'm losing this client. I have to face my reality and go back to the phone.  [[>>->NarrativeReturntoMomPhone]]
 
+:: NarrativeReturntoMomPhone {"position":"325,925","size":"100,100"}
+I went back to my phone. It is on the night table, quiet and dark. No new notifications arrive, which gets me a little concerned? I look at the time though and it is 11PM. Did I zone out that long on the exit stairs? I know I do it sometimes but I don't remember what I was thinking or doing. 
+
+I go back to my bed and close my eyes. I try to bury the amount of voices I will have to ignore or only partially listen to as I drift into whatever other abyss of my mind. [[>>->NarrativeFired]] 
+
+:: NarrativeFired {"position":"450,925","size":"100,100"}
+This isn't a suprise but it's great way to start my morning. I know this guy had steam coming out of his ears. I'm sorry for not being a human typewriter that will churn out his content drivel without a struggle. He clearly copied and pasted an AI email template and didn't make it personal to him. Speaks to his standards. 
+
+Hello Mr. Tai Rodriguez,
+
+I’m writing to formally notify you that our service agreement dated October 6th 2021 will be terminated effective June 6th 2021. This decision has been made after careful consideration and in alignment with the terms outlined in our contract.
+
+Up until the termination date, I will continue to provide services as agreed upon. After that date, all contracted obligations will conclude. If there are outstanding deliverables, invoices, or materials that need to be completed or transferred, I will ensure they are addressed promptly.
+
+Please let me know if you need any documentation, records, or transition support as we close out our work together.
+
+Thank you for the opportunity to collaborate. I wish you and your team continued success.
+
+Warm regards, 
+Bryan Smith
+
+Now, I am for sure fucked. No fortune telling needed. [[>>->NarrativeStillness]]
+
+:: NarrativeStillness {"position":"575,925","size":"100,100"}
+Sometimes I, with great passion and with striking chest pain, geniunely hate living here. There is nothing but just the essence of me, my "work", and the dreams I have and can no longer interpret the moment I wake up. 
+
+The only thing that breaks up the routine is my mother when she comes in with bags of plantains and cartons of milk. The window is also my portal to the other world essentially Through it, I see Carlos between his shifts, the sky, and the world continuing to turn as I sit or lay down.
+
+I wonder if there is a meaning to this stillness, if there's a ticket out of this. I breathe in, lay down on the kitchen floor. Yes, the grimey ass floor. I place my hands on my chest and spread my fingers out on my collar bone. I then tap rhythmically from left to right. I say to myself. Nothing because I don't believe in affirmations. Instead I say, go to the shelves. [[>>->NarrativeGototheLibrary]]
+
+:: NarrativeGototheLibrary {"position":"700,925","size":"100,100"}
+I put on a pair of black jeans that are tight and ripped at the knees and braid my hair in two tails. I then put on a band shirt of a band no knows, not even me, because the logo is completely unreadable. This is the exact same outfit I've worn since my undergrad years in college and I do it sometimes the honor the old me, albeit the new me is getting a little old to dress this way. No one cares though, my body is still trapped in 2017 anyway.
+
+The route I take every week, at least 2-3 times, was a behavioral activation plan I made with an old therapist long ago when I first came back to New York. //Wake up in the morning at 10AM, eat breakfast, take a walk to the train, and then allow myself to people watch until I hit the location of the library. Then I read at least 30 pages of literature in a quiet room.
+
+When I get on the train, I hold onto the pole and feel the tracks beneath my flat feet. I close my eyes and think of my destination to stay in the present moment. The sway and the bump is almost hypnotic until I reach the [[golden gates of the library.->NarrativeLibraryBooks]]
+
+
+:: NarrativeLibraryBooks
+This place always feels like it's a hell for people who love the company of others. In here, despite it's welcoming golden gates, and its consistently flowing population of readers, writers, musicians, artists, and lonely people, few of these people will make friendly talk and share their epiphanies or their lore. Yet, somehow, this still feels like more company than home. I tend to pick a quiet room all the way in the back of the library because it feels more private despite that no one here cares about the private experiences of others.
+
+I then enter the booth, open up a book, and then read. I do not let my mind wander and I let the prose settle in. The novel of the month is 2666 by Roberto Bolaño and the murals of violence and operas of death and grief are filling my mind. Apparently, I didn't have enough of it growing up. After about 5 pages though, I soon grow restless by the tides of blood driven imagery and I get up to check out some more books.
+
+:: NarrativeLibraryShelves
+I've gone through many aisles of this library, often without a single goal in mind. There are a few selections of books that I have on a list, but they are on hold and I don't feel like going through familiarity. The aisles in particular tend to be quite solitary, practically haunting to a level where if someone does come through it feels like an invasion of your own bedroom. The shelves in this area I'm in is unpopular and the lights are flickering every 5 seconds. The books are yellowing and for some the plastic coverings have done their due diligence of protecting. 
+
+One of them seemingly stands out more than the others. In big bold red letters, I see The Man in Green and the author is "Oliver Wong". A name that brings a bit of a flutter to my heart. I clench my ass and the thumping in my chest begin to get audible. For a moment, I believed, that my friend Oliver Wang had finally gotten to written a book about his family history. What a great achievement it would've been if it were true! His work would validate his father, I'm sure. But no, as a cultural and lingual outsider, I would make this mistake. His surname is Wang and he has gotten on my case about that many times in the earlier days of our friendship when our names became important. 
+
+The book may be interesting. I turn it over, I see a man in green uniform and a red star on the cap. His face stoic as one can ever be in a time of war and idealism. His brown eyes are intense and echo the love of his pride. His eyesbrows are thin and his lips are full. It is obviously not my friend, Oliver Wang nor is it the uncle he described so fervently on one summer afternoon.  
+
+:: NarrativeLibraryOliverBack
+
+It was during my family reunion funny enough. Him and I were sitting on the swings, one a giant tire and the other a plank. It was a few weeks before we would start the Fall semester again for our 2nd year of undergrad college. Oliver came along because even though he wasn't blood, my family practically thought he was an adopted sibling due to how close we were. What they didn't know during that time was that our closeness reached a whole new contrast.
+
+I don't remember what we were talking about but he turned aroud, with his thin brush brows scrunched. An expression I found rather cutesy and he hated when I would say that because when he would do that, it was rarely a good thing coming out of his lips.
+
+"My uncle is dead. The police found him fucking dead in a a parking lot not too far from here. Weren't we just in Pavillion Mall 2 weeks ago?" I recall he literally said this like it was the latest deranged gossip and not that his uncle passed away. It was also strangely placed because I've actually never met his uncle and he was treated like a folklore in the Wang household because of how long he was missing.
+
+He then pulls up a photo he took of a yellowed photograph of his uncle and the stereo music paused as if to let Oliver finally speak of his uncle. He then said "My uncle wore such a cool uniform. It's too bad I didn't get to see him." 
+
+I wasn't sure what to say during that time. But I remember just saying "Sorry" as if there was [[any kind of loss->NarrativeLibraryWalkBack]] there for him.
+
+:: NarrativeLibraryWalkBack
+
+:: NarrativeMomWangVM {"position":"125,1175","size":"100,100"}
+3 voicemails, 5 missed calls, and 2 "Hello Tai" text messages from a number I don't quite recognize. I put on my earphones, check my surroundings for a moment for any strangers wanting to sit near me. 
+
+Then I listen to the voicemail.
+
+"Hello, this is  Mrs. Wang.  It's about your friend...QingFeng...Please..call me back."
+
+I could barely hear the callback number if she left one. 
+ 
+I call back and of course, I go straight to voicemail.
+
+
+:: NarrativeNeverSayIDidnt {"position":"75,775","size":"100,100"}
+I've always told him I could help. But he never accepted the help. If only he'd listen, but it was always like talking to someone at a far down tunnel and then watching as they keep going further down, craning their neck everywhere except behind. 
+
+You can't ever say I didn't say anything Oliver...but I wonder. What do you think of me as a friend? I wonder if I'm good enough. I don't think I was before.
+
+:: NarrativeUnlocked {"position":"600,250","size":"100,100"}
+I unlock his blog. I can't figure out if this is Olive's OC account where he roleplays or if this is his actual journal. Hopefully not his manifesto.
+
+He doesn't keep a NSFW blog locked and keyed even though he should. So this one is private for a reason. The blog has a nice, stylish UI that still maintains a minimal style. I've always told him that he would make an excellent web designer but he never seems to land a position.
+
+
+:: NarrativeWangMomCall {"position":"550,400","size":"100,100"}
+When I called Mrs. Wang, I couldn't tell if she was at the phone or not. At times it sounded like she was consulting her husband while speaking to me. This whole exchange is making me anxious because she keeps calling me and not saying exactly what. I know it's a language barrier but she is killing me.
+
+
+:: NarrativeTheLossAgain {"position":"1000,1000","size":"100,100"}
+His mother was really feeling the loss again. So I sat down with Mrs. Wang and drank green tea with her in these Euro-Japanese tea cups. In my mind, her sprawling, frantic text messages scroll down and reveal her anguish. My mind tries to tangle itself around the concept of being a mother as my finger pads rub against the blue and gold painted ridges of blossoms.
+
+Oliver Wang, my childhood friend of 20 years, went missing on Lunar Year evening after an argument with his father over politics. 
+
+3 months have passed, police did nothing because Oliver and Mr. Wang have a long history of tussling around in the house, the neighborhood streets, and even in the grocery store. 
+
+Everyone down on Melville Road knows the Wangs' business. I even went down there one Halloween night.  Some old racist White man that Olive has complained about stepped out on his porch. He said "Those Chinese men fighting again? Someone gotta tell them to shut the hell up. They speak English? Maybe they don't understand." 
+
+It turned out they were arguing off and on throughout the day and the sergeant had indeed came previously. And yes, it was over "having too much video game time" and I remember my throat tightening because I kept starting new campaigns. We were having so much fun and I loved to hear him laugh.
+
+
+:: NarrativeTravelMsWang {"position":"875,1025","size":"100,100"}
+It's a real long way out. I guess I can take a bit of a trip and give myself a break.
+
+
+:: NarrativeStagnancy {"position":"700,775","size":"100,100"}
+Being here, it feels like nothing has changed. It is true that Oliver hasn't grown fully into a 30 year old body. Remanents of his childhood lingers in his own toy box of a mind. The parents say this is common within our generation. 
+
+At first I denied it. But it is true, we are just not prepared and will continue being in the unknown till we die in our fate.
+
+:: NarrativeHisRoom {"position":"275,1425","size":"100,100"}
+There is a scent in here that is familiar. Hair, sweat, and cedar. But there is no warmth of a being here. The cool air entrapped in the empty room pours out and greets my face and goes down my spine.
+
+The light is on and it is a warm yellow glow that reveals his bed being made, his computer chair sheathed into a black carbon fiber desk, and a laptop sits open and dark. He has been missing for 3 months and his mother takes care of the room as if it will coax him back.
+
+The welcome of a clean home isn't enchanting now, which definitely means there's something up.
+
+<!--- NarrativeACT2 --->
+
+:: IntroBlog {"position":"125,200","size":"100,100"}
+Huh. Weird. I never knew space worked like this. I can use the blog editor but when I click on some posts, it's just blank. 
+
+I thought Oliver just made blog themes, didn't expect him to have Windows do his bidding. I've been learning a lot since invading his privacy.
+
+
+:: Narrative4AMDorm {"position":"275,1175","size":"100,100"}
+Olive and I were high, elevating up to Saturn and then crash landing back down to New Jersey when it was over. Our confuzzled feelings were mixed  with alcohol more than the edibles we used at that time. I think I even puked a little in my mouth before we jumped into the bed. I did have two shots of that Chinese wine he gave me and then he finished it off. 
+
+Sometimes this little love scene with Olive comes into my mind at night. Although, rarely these days, but with entering his world again. It feels raw and new.
+
+I recall this happened after our big conversation where we exchanged these feelings under the college bleachers like some damn White people sitcom. It was Olive's plan by the way. 
+
+There is more to this story. There was a red flag or two and I shouldn't have pulled my pants down there. We were just so desperate in our honesty [[I guess.->NarrativeTheBleachers]]
+
+
+:: NarrativeChildHoodMemory1 {"position":"875,825","size":"100,100"}
+I think I remember that one day, that blog post really brings back some memories. I've known Olive for so long but when we hit our puberty years I stopped knowing him. It's hard to explain and to be quite frank he never wanted to explain it me either.
+
+When we got lost in Kids R' Fun, his dad really did slap the shit out of him. It was over something so ridiculous too. Olive and I were at the arcade playing Tekken 3.
+
+He was Hwoarang and I was Lei Wulong. The strobing lights, the muffled SFXs, my hands sweating on the handsticks, and the dried tears on Olive's cheeks from all the hysterical laughing he was doing. I do not remember what was funny during that time, but sometimes he would break down cry laughing for simply being around me. [[>>->NarrativeChildHoodMemory2]]
+
+
+:: NarrativeChildHoodMemory2 {"position":"1000,825","size":"100,100"}
+"Fengfeeenng!" I heard his father call out and I turned and saw his thin figure in the dark, lightened only by the flickers of various arcade games. He was still wearing a fleece even though it was dead in the middle of a hot August.
+
+It only took a minute after him and I locked eyes. His, totally cocked with rage, mine with total doe-eyed child fright. In that 5 seconds, I had realized that we weren't allowed here and Olive never told me that we weren't allowed there.
+
+"Fengfeeenng!" I heard him say again in the exact cadence as before as if he's practiced saying it in the mirror. Things moved quite fast. After all, I think we had to be like around 11 years old? 
+
+I looked down at the neon galaxy stars and purple planets of the carpeted arcade floor as Olive's feet were lifted off of it. I could feel the callused fingers against the moist skin of Olive's cheek.
+
+I wasn't the one receiving the blows but I cried myself to sleep that night.
+
+
+
+
+
+
+:: NarrativeIllness1 {"position":"775,1300","size":"100,100"}
+I remember when I came down with the illness. When I mean "came down" more like I finally recognized it. I was bedridden for days riding the tide before I could truly gain the acceptance that I was sick as a fucker. 
+
+I could barely move from my bed and I felt like I was swimming in my sheets. I've never had so much sweat come out of my pores and my hair was stuck to my skin. The ringlets that my family always gawked at as being the generational genetic treasure were becoming matted and fuzzed up like caterpillers. 
+
+Honestly, I wish I died that day. It turned out though, I was just really damaged by the heat and I would later come to find out I'm a little more neurally fucked than I thought. [[>>->NarrativeIlness2]]
+
+
+:: NarrativeIllness3 {"position":"1025,1300","size":"100,100"}
+
+:: NarrativeIlness2 {"position":"900,1300","size":"100,100"}
+I was knocked down and slapped silly by a flu and what I would later come to find out was POTS or Postural Orthostatic Tachycardia Syndrome. I had faded in and out, could barely get out of bed, and watched as the sun tinged my legs from the blinds and the moonlight awashed me overnight.
+
+My mind was in a haze of agonizing dreams the whole time: arguments with my dad, arguments with Oliver, weird sex dreams with Oliver, and then that coach screaming at me. There was no way for me to stabilize my thoughts either. If I got up, it was like someone forced me down with one big push. My hands gripped the blankets and if I turned my world swayed to left and the right. 
+
+Oliver finally came in to check in on me. He was gone at his parents and he didn't get a chance to off load the continued trauma tha night. I was seizing and probably would've been seized by the Gods if he didn't come back.
+
+All I saw was Mary, the Black one in particular. She doted down and her brown eyes were so comforting, so warm. It was so rude to be waken by a shot in my ass. [[>>->NarrativeIllness3]]
 
 :: NarrativeIntroEmailApp {"position":"750,225","size":"100,100"}
 This app he's using is for encrypted messages. Looks kind of old too. 2010s kind of app. There's about 3241 unread emails in here. Jeez. What can I even find here.
 
 Looks mostly spam. You can't even escape spam when you want to be more private.
-
-
-:: NarrativeIntroHome {"position":"100,1400","size":"100,100"}
-I moved here in this apartment as an escape. Mother thought it was an ugly little place but I thought it had a lot of charm. Since this home is unwelcoming to my mother, I can covet it to myself along with the financial regrets. Without me depending on her and her depending on me from afar, the cost benefit seems to weigh less in favor of my mind.
-
-The green walls were the real show stoppers and I got orange kitchen appliances to create more synergy with the color pallette. Except the oven, orange ovens only exist for the unworthy wealthy. The apartment building itself has blue exit stairs and has a sibling building right across from it. 
-
-The Blue Sky Apartments were designed by a rich yuppie who took pity on us medicaid brokies and gave us the ugliest places to live. To be fair, it's just 70s nostalgia. 
 
 
 :: NarrativeMilitaryUniform {"position":"75,900","size":"100,100"}
@@ -271,23 +364,17 @@ On the right edge, I can see the darkness of a doorway where the mirror may be f
 
 I will think of it as a guardian, a spirit. Hopefully nothing malevolent.
 
+<!--- NarrativeACT3 --->
+:: NarrativeEndGodUpThere {"position":"1225,1150","size":"100,100"}
+Olive is still in the hospital and his parents are so shocked, I've been visiting them despite that the search is over. I don't have anything better to do anyway and I don't have any interest going back to the writing desk now.
 
-:: NarrativeMomWangVM {"position":"125,1175","size":"100,100"}
-3 voicemails, 5 missed calls, and 2 "Hello Tai" text messages from a number I don't quite recognize. I put on my earphones, check my surroundings for a moment for any strangers wanting to sit near me. 
+I am holding the events in my heart and my chest is heavy with the burden of knowing that I had just prevented the most vile shit. Today, I visit Olive in the hospital and his mother was sitting across Olive in the chair. She is quiet, looking down at her son. The father isn't here. So my mother sat next to Mrs. Wang to fill in the role. My mom then says in her typical refusing to read the room fashion:
 
-Then I listen to the voicemail.
+Mom: "There is a God up there. I know you don't believe in him. But he will come around one of these days."
 
-"Hello, this is  Mrs. Wang.  It's about your friend...QingFeng...Please..call me back."
+I lift up the basket behind me on the chair. It is filled with a shower gel, shaving cream, and a couple of candies that Olive likes the most. I give it to his mother who forces a grimace-like smile to accept the gift with her kindness but with hesitation against mine.
 
- I could barely hear the callback number if she left one. 
- 
- I call back and of course, I go straight to voicemail.
-
-
-:: NarrativeNeverSayIDidnt {"position":"75,775","size":"100,100"}
-I've always told him I could help. But he never accepted the help. If only he'd listen, but it was always like talking to someone at a far down tunnel and then watching as they keep going further down, craning their neck everywhere except behind. 
-
-You can't ever say I didn't say anything Oliver...but I wonder. What do you think of me as a friend? I wonder if I'm good enough. I don't think I was before.
+I've told the Wangs many times. Yes, I risked my life. No, I don't regret it, except the parts where I kept falling.
 
 
 :: NarrativeNewbornBaby {"position":"550,1550","size":"100,100"}
@@ -328,19 +415,6 @@ I then pull Olive out by the shoulders. He is so light weight and I cannot tell 
 We are running out of seconds, we cannot perform a theatrical reunion, we have to escape the throat of the monster.
 
 
-:: NarrativeStagnancy {"position":"700,775","size":"100,100"}
-Being here, it feels like nothing has changed. It is true that Oliver hasn't grown fully into a 30 year old body. Remanents of his childhood lingers in his own toy box of a mind. The parents say this is common within our generation. 
-
-At first I denied it. But it is true, we are just not prepared and will continue being in the unknown till we die in our fate.
-
-
-:: NarrativeStillness {"position":"575,925","size":"100,100"}
-Sometimes I, with great passion and with striking chest pain, geniunely hate living here. There is nothing but just the essence of me, my "work", and the dreams I have and can no longer interpret the moment I wake up. 
-
-The only thing that breaks up the routine is my mother when she comes in with bags of plantains and cartons of milk. The window is also my portal to the other world essentially Through it, I see Carlos between his shifts, the sky, and the world continuing to turn as I sit or lay down.
-
-I wonder if there is a meaning to this stillness, if there's a ticket out of this. I breathe in, lay down on the kitchen floor. Yes, the grimey ass floor. I place my hands on my chest and spread my fingers out on my collar bone. I then tap rhythmically from left to right. I say to myself. Nothing because I don't believe in affirmations. Instead I say, go to the shelves. [[>>->GototheLibrary]]
-
 
 :: NarrativeTaiPastRomance {"position":"475,175","size":"100,100"}
 I try to bury this memory deep in me because I want to keep these past parts of Oliver far away from my mind realm. The more I read his posts, the more I remember his different but similar parts. The one where he cries, the one where he cuts, the one where he's so brightly smart, and the one I was attracted to.
@@ -356,20 +430,6 @@ It was Oliver who made our 10th romantic date a special number and never told me
 I just know it. Honestly? At that time, I kind of liked it. I think about it now like it's one of the most core memories of college I want to forget.
 
 
-:: NarrativeTheLossAgain {"position":"1000,1000","size":"100,100"}
-His mother was really feeling the loss again. So I sat down with Mrs. Wang and drank green tea with her in these Euro-Japanese tea cups. In my mind, her sprawling, frantic text messages scroll down and reveal her anguish. My mind tries to tangle itself around the concept of being a mother as my finger pads rub against the blue and gold painted ridges of blossoms.
-
-Oliver Wang, my childhood friend of 20 years, went missing on Lunar Year evening after an argument with his father over politics. 
-
-3 months have passed, police did nothing because Oliver and Mr. Wang have a long history of tussling around in the house, the neighborhood streets, and even in the grocery store. 
-
-Everyone down on Melville Road knows the Wangs' business. I even went down there one Halloween night.  Some old racist White man that Olive has complained about stepped out on his porch. He said "Those Chinese men fighting again? Someone gotta tell them to shut the hell up. They speak English? Maybe they don't understand." 
-
-It turned out they were arguing off and on throughout the day and the sergeant had indeed came previously. And yes, it was over "having too much video game time" and I remember my throat tightening because I kept starting new campaigns. We were having so much fun and I loved to hear him laugh.
-
-
-:: NarrativeTravelMsWang {"position":"875,1025","size":"100,100"}
-It's a real long way out. I guess I can take a bit of a trip and give myself a break.
 
 
 :: NarrativeTruckDiscovered {"position":"1225,1000","size":"100,100"}
@@ -382,30 +442,13 @@ He always hated his name while I despised his vulnerability that at times was se
 I try to catch my breathe, fill my lungs up before I can enter the fray. 
 
 
-:: NarrativeUnlocked {"position":"600,250","size":"100,100"}
-I unlock his blog. I can't figure out if this is Olive's OC account where he roleplays or if this is his actual journal. Hopefully not his manifesto.
-
-He doesn't keep a NSFW blog locked and keyed even though he should. So this one is private for a reason. The blog has a nice, stylish UI that still maintains a minimal style. I've always told him that he would make an excellent web designer but he never seems to land a position.
 
 
-:: NarrativeWangMomCall {"position":"550,400","size":"100,100"}
-When I called Mrs. Wang, I couldn't tell if she was at the phone or not. At times it sounded like she was consulting her husband while speaking to me. This whole exchange is making me anxious because she keeps calling me and not saying exactly what. I know it's a language barrier but she is killing me.
 
 
-:: NarrativeWindow {"position":"325,675","size":"100,100"}
-Perhaps the scenary needs to change a little. My eyes need to rest on something other than screens, the words of dead writers, and my mom's concern static filling up my damn phone and my own anxiety about my own concerns transfering to her.
-
-It needs to all be compartamentalized. I pull my computer chair to the screen door and then I open it up to sit on my, in a sense, a levitating "porch" at the sky blue exit stairs.  
-
-The stairs were painted as a project by a dead artist who used to live in my apartment complex. He begged the owner to allow him to paint them like the sky, so he could feel like he was still living here in heaven. I do love the intention and meaning of his art, but there is also a pinch of naivity in it as the rent keeps getting higher. He has been dead for the last 5 years, hopefully, he is enjoying still living here but rent free. 
-
-They keep me elevated but somehow connected to everyone down there on the sidewalks when I can't get out. It keeps me in a division between my thoughts, the people, and me. But someone out there is singing and smoking as a personal ritual for whatever inner experience he has, he does it at this time always. [[>>->NarrativeIntroCarlos]]
 
 
-:: ReturntoMomPhone {"position":"325,925","size":"100,100"}
-I went back to my phone. It is on the night table, quiet and dark. No new notifications arrive, which gets me a little concerned? I look at the time though and it is 11PM. Did I zone out that long on the exit stairs? I know I do it sometimes but I don't remember what I was thinking or doing. 
 
-I go back to my bed and close my eyes. I try to bury the amount of voices I will have to ignore or only partially listen to as I drift into whatever other abyss of my mind. [[>>->NarrativeFired]] 
 
 
 <!----Blog --->
@@ -534,42 +577,6 @@ The thoughts were so fucking strong. Yet, here I am posting here after I just fi
 :: BlogUniform {"position":"1850,700","size":"100,100"}
 Olive tried to teach me some Chinese but I forgot all of it as the friendship dwindled. He only taught me curse words, festivals especially Lunar Year and the Spring one, singers, and the names of events. I'm sure this isn't the slang word for penis but I bet it does exist somewhere in this blog. 
 
-<---Menu Screen -->
-:: CatholicCW {"position":"450,50","size":"100,100"}
-The main character of the game is a 3rd generation diaspora Puerto Rican who lives in a fictional Park Slope, New York and then migrated to a suburban unnamed part of New Jersey. A lot of Puerto Ricans are Catholic, so there will be mentions of saint statues, crosses, churches, and prayers. 
-
-However, religion does not play a main role in this game and the character identifies as secular but culturally Catholic. Catholicism is a common motif in Latin American and Caribbean cultures. Even when the Latino is not neccessarily a church-going Catholic, they might be rocking that Mary tattoo because she is aesthetically cool to them.
-
-[[Return->Epigram]] 
-
-:: Epigram {"position":"300,50","size":"100,100"}
-gothtangzhuang.space is a blog and email based horror interactive fiction about a friend/former lover gone missing. 
-
-The narrator, Tai will be searching for him. It's your job to lead the way. 
-
-Content Warning
-- Catholicism mentions Please read further [[here.->CatholicCW]]
-- Suicidal ideation, active and passive
-- Self-harm mentions (burning, cutting)
-- Alcohol use mentions
-- Emotional and physical abuse by parents and partner
-- Intimate partner violence (IPV)
-- Sexual content
-
-Gameplay
-- Contains a lot of text
-- A few puzzles
-- Some graphics
-
-[[Start->NarrativeIntro]]
-
-:: Credits {"position":"25,25","size":"100,100"}
-Writing, Scripting, and UI by Li Hieng Tan
-Additional scripting by 
-Pixel art by Li Hieng Tan
-Music by 
-Edited and tested by Sam, Maria
-Sam is a beta-reader to make sure those POTS scenes are real and relatable.
 
 
 
@@ -586,7 +593,7 @@ Ng Hui Miang
 
 August 21st 1956 - August 16th 2011
 
-Further Note: Wang Jiafei is entirely fictional for the most part. He is not based off my dad, with the exception of the packages with various names. My dad did that and I never had a chance to ask why.
+Further Note: Wang Jiafei is entirely fictional for the most part. He is not based off my dad, with the exception of the scene where Wang Jiafei has packages with various names. My dad did that and I never had a chance to ask why.
 
 Miss you, Dad. 
 
