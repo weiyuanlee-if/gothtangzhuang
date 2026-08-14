@@ -54,7 +54,7 @@ Sam is a beta-reader to make sure those POTS scenes are real and relatable.
 
 
 <!---- Narrative ACT1--->
-
+Prologue
 :: NarrativeIntro {"position":"300,175","size":"100,100"}
 This guy makes me want to drive into the nearby steel powerline but I can't do that because:
 1. I don't have a car
@@ -241,28 +241,55 @@ Above my eyes, there is an advertisement for the Addictions Helpline, another ab
 
 :: NarrativeMomWangVM {"position":"125,1175","size":"100,100"}
 
-3 voicemails, 5 missed calls, and 2 "Hello Tai" text messages from a number I don't quite recognize. I put on my earphones to muffle the train tracks and the aspiring singer. I check my surroundings for a moment for any strangers wanting to sit near me. 
+3 voicemails, 5 missed calls, and 2 "Hello Tai" text messages from a number I don't quite recognize. I put on my earphones to muffle the train tracks and the aspiring singer. I check my surroundings for a moment for any strangers wanting to sit near me so they can't sit in with all the theatrics I'm probably going to go through. 
 
-Then I listen to at least one of the voicemails. Usually my mother doesn't send them so this is a bit out of norm for me. A gasp of air comes in and I can hear loud TV static conversations leaking in with the natural environmental sound. A long gap of silence follows until I hear "Hello, this is  Mrs. Wang.  It's about your friend...QingFeng...Please..call me back." A voice hoarse yet gentle seems to arrive at the phone mic in the middle of an erection pill ad that always starts with a whistle melody.
+"Hi, who is this?" I respond to the text message first before calling. 
+
+I listen to at least one of the voicemails. Usually my mother doesn't send them so this is a bit out of norm for me. A gasp of air comes in and I can hear loud TV static conversations leaking in with the natural environmental sound. A long gap of silence follows until I hear "Hello, this is  Mrs. Wang.  It's about your friend...QingFeng...Please..call me back." A voice hoarse yet gentle seems to arrive at the phone mic in the middle of an erection pill ad that always starts with a whistle melody.
 
 Unfortunately, I could barely hear the callback number if she left one but I assume the number that I missed 3 times in my history is my former friend's mother. Her voice gave me shivers and a proustian effect that granted me the olfactory memory of musk parfums, the sensory of my nose sweating as I ate wonton soups with Oliver, and the taste of bean curd buns. 
  
-I call back and of course, I go straight to voicemail.
+I call back and of course, I go straight to voicemail. There is no response in text either. 
 
-:: NarrativeWangMomCall {"position":"550,400","size":"100,100"}
-When I called Mrs. Wang, I couldn't tell if she was at the phone or not. At times it sounded like she was consulting her husband while speaking to me. This whole exchange is making me anxious because she keeps calling me and not saying exactly what. I know it's a language barrier but she is killing me.
+:: NarrativeWangMomCall1 {"position":"550,400","size":"100,100"}
 
-:: NarrativeNeverSayIDidnt {"position":"75,775","size":"100,100"}
-I've always told him I could help. But he never accepted the help. If only he'd listen, but it was always like talking to someone at a far down tunnel and then watching as they keep going further down, craning their neck everywhere except behind. 
+I tend to be in tune with the train stops because I prefer to be home in case my body decides to give up. Of course - with the whole phone play wth Mrs. Wang - I miss my stop. I'm not even sure where I'm at by now but I'm probably not far off. When  I get off the train and cross over the yellow line, I check how many stops I have till I can get back home. I've missed three stops and curse under my breathe because it's a whole other direction somehow from where I live. This station is not well lit with platform lights flickering and the people here are giving this strange aura that brings me unbelonging as they smoke, use their cellphones, and standing a little too close to the yellow line while I was departing [[from the last train.->NarrativeWangMomCall2]]
 
-You can't ever say I didn't say anything Oliver...but I wonder. What do you think of me as a friend? I wonder if I'm good enough. I don't think I was before.
+:: NarrativeWangMomCall2
 
-:: NarrativeUnlocked {"position":"600,250","size":"100,100"}
-I unlock his blog. I can't figure out if this is Olive's OC account where he roleplays or if this is his actual journal. Hopefully not his manifesto.
+It's like there's a spirit leading me somewhere else, deciding that today's going to be a MUCH different day. A man seems to sense that I need to sit and process, he moves down a bit on a bench that was once freshly green painted so I could stop taking up space on the platform. As I sit down, the train departs, rails begins streeching and the winds follow as it travels to the next stop. Mrs. Wang returns my call but I can't be answering a call with all this racket. So I let her go into my voice mail again. 
 
-He doesn't keep a NSFW blog locked and keyed even though he should. So this one is private for a reason. The blog has a nice, stylish UI that still maintains a minimal style. I've always told him that he would make an excellent web designer but he never seems to land a position.
+To avoid further derailment on the way home, I'm going to have to give Mrs. Wang another call and get this all resolved in one go. As soon as the train lights can no longer be seen in the darkness of the tunnel, I call Mrs. Wang again. The dial tone goes on and on, 3 times, and then I hear silence. No longer is the static thick with living room background noise.
 
+I couldn't tell if she was at the phone or not. This whole exchange is making me anxious because she keeps calling me and not saying exactly what. Another train can be coming any time soon and I might need to miss it. The man next to me gives me a side glance and gets off to walk to another bench. A woman with a stroller then comes soon and sits on the far end of the bench. I scoot further away from her to not wake up the baby. 
 
+I know it's a language barrier but she is killing me here. I recall in the past sometimes she would consult her husband while speaking to me, which was confusing because she spoke English more fluently than he did and would brag that she schooled in London, while Mr. Wang only had a middle school education. This was sometimes [[a topic of contention with Oliver.->NarrativeWangMomCall3]]
+
+:: NarrativeWangMomCall3
+
+Tai: "Hello? It's Tai. Mrs. Wang I got your call. I'm outside so I'm sorry for missing it. Long time...no see?" I remember when Olive and his parents would say "Long time no see" so I say that to show warmth. Although, for many years I thought it was some broken English saying and found out it technically is.
+
+"That's him!" I hear someone whisper. "Get it!" They shout as if Mrs. Wang is retrieving the phone from afar. She may have walked off in a panic. I look down at the phone screenm, I'm 10 minutes into this call, and by the 11th minute 
+
+Tai: "Hello, Mrs. Wang. Tai is that you? You sound different." She says almost in a frantic stir. Mr. Wang attempts to whispers but it comes out lowly and groaned "Tell him, Oliver is -" Mrs. Wang gets to the point "Oliver has been missing and we were wondering if he was with you?"
+
+I'm taken aback, my jaw going slack at the ludicrousness of this question. "N-no. Why?" They already told me why but I'm getting dizzy now with the energy coming through in their voices. Soon, there will be sound of the train launching into the tunnel and the shrieking as it halts.
+
+Mrs. Wang:  "He has been missing for months and he took his father's car and we are soo worried about him. Tai, please do you know where he is?"
+
+Tai: "I really don't know Mrs. Wang, I haven't talked to him in over...I don't know 3 years?"
+
+An ellipises occurs between us, one much longer than the first. I know the Wangs long enough and well enough despite the gap in time. They are both plotting their next sentence, accusation, or to hang up. 
+
+Mrs. Wang: "Come, please. Come visit, we are so worried sick and only you know him. Everyone from Holy Family is gone to another city and we don't why Oliver just went without telling us." 
+
+Mr. Wang: "You remember our address...It's 12 Melville Road." then the phone disconnects after maybe 25 minutes.
+
+Mrs. Wang in text: "I'm sorry...my phone connection is bad." 
+
+Tai in text: "It's okay, I have to get on the next train. I can talk through text."
+
+And with that I have agreed to continue onto to the next stop in another direction to lead onto a different day.
 
 
 
@@ -293,6 +320,16 @@ There is a scent in here that is familiar. Hair, sweat, and cedar. But there is 
 The light is on and it is a warm yellow glow that reveals his bed being made, his computer chair sheathed into a black carbon fiber desk, and a laptop sits open and dark. He has been missing for 3 months and his mother takes care of the room as if it will coax him back.
 
 The welcome of a clean home isn't enchanting now, which definitely means there's something up.
+
+:: NarrativeUnlocked {"position":"600,250","size":"100,100"}
+I unlock his blog. I can't figure out if this is Olive's OC account where he roleplays or if this is his actual journal. Hopefully not his manifesto.
+
+He doesn't keep a NSFW blog locked and keyed even though he should. So this one is private for a reason. The blog has a nice, stylish UI that still maintains a minimal style. I've always told him that he would make an excellent web designer but he never seems to land a position.
+
+:: NarrativeNeverSayIDidnt {"position":"75,775","size":"100,100"}
+I've always told him I could help. But he never accepted the help. If only he'd listen, but it was always like talking to someone at a far down tunnel and then watching as they keep going further down, craning their neck everywhere except behind. 
+
+You can't ever say I didn't say anything Oliver...but I wonder. What do you think of me as a friend? I wonder if I'm good enough. I don't think I was before. 
 
 <!--- NarrativeACT2 --->
 
@@ -590,9 +627,9 @@ Olive tried to teach me some Chinese but I forgot all of it as the friendship dw
 
 
 :: DadDedication {"position":"2700,700","size":"100,100"}
-This is kind of a weird game to dedicate to your Dad. Pieces of this game is based off histories I've read and never got a chance to ask him about. My father is the descendent of two Chinese, possibly both from the Shantou region, of Fujian/Teochew origin. They are Tan Peck Sim and Ng Liat Seng and they left China for Singapore during the Sino-Japanese Wars.  
+This is kind of a weird game to dedicate to your Dad. Pieces of this game is based off histories I've read and never got a chance to ask him about. My father is the descendent of two Han Chinese, possibly both from the Shantou region, of Fujian/Teochew origin. They are Tan Peck Sim and Ng Liat Seng and they left China for Singapore during the Sino-Japanese Wars.  
 
-Ng Liat Seng, my ah gong, was a coal merchant. Tan Peck Sim, with what little I know, is the birther and rearer of my baba and his 5 sisters. In the long house that the Ng family lived in with several others, the created their story. My baba lived through the economic expansions and post-British colonial conditions of Lee Kuan Yew. Indepedent Singapore changed drastically and some lower middle class Chinese Singaporeans had to leave, work, and make new homes with the dream of returning in the back of their minds. My baba made several homes as a culinary chef: Singapore, Bermuda, Brooklyn, and the burbs of New Jersey. He continues to rest in New Jersey. 
+Ng Liat Seng, my ah gong, was a coal merchant. Tan Peck Sim, with what little I know, is the birther and rearer of my baba and his 5 sisters. In the long house that the Ng family lived in with several others, they created their story. My baba lived through the economic expansions and post-British colonial conditions of Lee Kuan Yew. Indepedent Singapore changed drastically and some lower middle class Chinese Singaporeans had to leave, work, and make new homes with the dream of returning to Singapore in the back of their minds. My baba made several homes as a culinary chef: Singapore, Bermuda, Brooklyn, and the burbs of New Jersey. He continues to rest in New Jersey.
 
 He is known by many names: Danny Ng. Danny Ming. Dan. Miang Hui Ng.  Daddy. Dad. But he is born:
 
